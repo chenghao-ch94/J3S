@@ -1,6 +1,6 @@
 # J3S
 
-Joint Statistical and Spatial Sparse representation models the image or image-set data for classification, by reconciling both their local patch structures and global Gaussian distribution mapped into Riemannian manifold.
+We propose a Joint Statistical and Spatial Sparse representation models the image or image-set data for classification, by reconciling both their local patch structures and global Gaussian distribution mapped into Riemannian manifold.
 
 We propose to solve the joint sparse coding problem based on the J3S model, by coupling the local and global image representations using joint sparsity.
 The learned J3S models are used for robust image and image-set classification.
@@ -8,6 +8,11 @@ Experiments show that the proposed J3S-based image classification scheme outperf
 
 
 # Citation
+
+If you have any questions or suggestions, please contact me
+
+      HAO006@ntu.edu.sg
+
 
 In case of use, please cite our publication:
 
