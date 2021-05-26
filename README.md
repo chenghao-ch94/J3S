@@ -43,11 +43,6 @@ Usage: run `J3S.m`
 
 ## Citation
 
-If you have any questions or suggestions, please contact me
-
-    HAO006@ntu.edu.sg
-
-
 Paper is available [here](https://ieeexplore.ieee.org/abstract/document/9191248).
 
 In case of use, please cite our publication:
@@ -65,3 +60,8 @@ Bibtex is here:
         organization={IEEE}
       }
 
+## Contact
+
+If you have any questions or suggestions, please contact me
+
+    HAO006@ntu.edu.sg
