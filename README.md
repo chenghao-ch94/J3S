@@ -5,3 +5,19 @@ Joint Statistical and Spatial Sparse representation models the image or image-se
 We propose to solve the joint sparse coding problem based on the J3S model, by coupling the local and global image representations using joint sparsity.
 The learned J3S models are used for robust image and image-set classification.
 Experiments show that the proposed J3S-based image classification scheme outperforms the popular or state-of-the-art competing methods over FMD, UIUC, ETH-80 and YTC databases.
+
+
+# Citation
+
+In case of use, please cite our publication:
+
+H. Cheng, and B. Wen. "Joint Statistical and Spatial Sparse Representation for Robust Image and Image-Set Classification." 2020 IEEE International Conference on Image Processing (ICIP). IEEE, 2020.
+
+@inproceedings{cheng2020joint,
+  title={Joint Statistical and Spatial Sparse Representation for Robust Image and Image-Set Classification},
+  author={Cheng, Hao and Wen, Bihan},
+  booktitle={2020 IEEE International Conference on Image Processing (ICIP)},
+  pages={2411--2415},
+  year={2020},
+  organization={IEEE}
+}
