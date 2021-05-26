@@ -13,6 +13,7 @@ In case of use, please cite our publication:
 
 H. Cheng, and B. Wen. "Joint Statistical and Spatial Sparse Representation for Robust Image and Image-Set Classification." 2020 IEEE International Conference on Image Processing (ICIP). IEEE, 2020.
 
+'''
 @inproceedings{cheng2020joint,
   title={Joint Statistical and Spatial Sparse Representation for Robust Image and Image-Set Classification},
   author={Cheng, Hao and Wen, Bihan},
@@ -21,3 +22,4 @@ H. Cheng, and B. Wen. "Joint Statistical and Spatial Sparse Representation for R
   year={2020},
   organization={IEEE}
 }
+'''
