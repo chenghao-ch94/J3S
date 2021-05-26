@@ -48,6 +48,8 @@ If you have any questions or suggestions, please contact me
     HAO006@ntu.edu.sg
 
 
+Paper is available [here](https://ieeexplore.ieee.org/abstract/document/9191248).
+
 In case of use, please cite our publication:
 
 H. Cheng, and B. Wen. "Joint Statistical and Spatial Sparse Representation for Robust Image and Image-Set Classification." 2020 IEEE International Conference on Image Processing (ICIP). IEEE, 2020.
