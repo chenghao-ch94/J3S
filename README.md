@@ -1,4 +1,4 @@
-# J3S
+# J3S Model
 
 ## Description
 
