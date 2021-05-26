@@ -1,5 +1,7 @@
 # J3S
 
+## Description
+
 We propose a Joint Statistical and Spatial Sparse representation models the image or image-set data for classification, by reconciling both their local patch structures and global Gaussian distribution mapped into Riemannian manifold.
 
 ![image](https://github.com/chengcv/J3S/blob/main/framework.jpg)
@@ -10,7 +12,7 @@ The learned J3S models are used for robust image and image-set classification.
 ![image](https://github.com/chengcv/J3S/blob/main/classification.jpg)
 
 
-# Experiments results over FMD, UIUC, ETH-80 and YTC databases.
+## Experiments results over FMD, UIUC, ETH-80 and YTC databases.
 
 | Method         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ETH-80  |  FMD  | UIUC | YTC  |
 |---------------------|-----------|-----------|-----------|-----------|
@@ -33,7 +35,7 @@ The learned J3S models are used for robust image and image-set classification.
 | J3S &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;96.00&nbsp;&nbsp;  | 82.58 | 84.07 | 83.09 |
 
 
-# Citation
+## Citation
 
 If you have any questions or suggestions, please contact me
 
