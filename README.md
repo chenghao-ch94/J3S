@@ -15,7 +15,7 @@ The learned J3S models are used for robust image and image-set classification.
 
 Here we take UIUC-material database as an example.
 
-Usage: 'run J3S.m'
+Usage: run `J3S.m`
 
 
 ## Experiments results over ETH-80, FMD, UIUC, and YTC databases.
