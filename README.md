@@ -7,6 +7,8 @@ The learned J3S models are used for robust image and image-set classification.
 Experiments show that the proposed J3S-based image classification scheme outperforms the popular or state-of-the-art competing methods over FMD, UIUC, ETH-80 and YTC databases.
 
 
+![image]（https://github.com/chengcv/J3S/blob/main/frame_j3s.pdf）
+
 # Citation
 
 If you have any questions or suggestions, please contact me
