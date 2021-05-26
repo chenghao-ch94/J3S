@@ -45,7 +45,7 @@ Usage: run `J3S.m`
 
 If you have any questions or suggestions, please contact me
 
-      HAO006@ntu.edu.sg
+    HAO006@ntu.edu.sg
 
 
 In case of use, please cite our publication:
