@@ -35,10 +35,12 @@ Usage: run `J3S.m`
 | [CDL-PLS](https://vipl.ict.ac.cn/homepage/rpwang/publications/Covariance%20Discriminative%20Learning_A%20Natural%20and%20Efficient%20Approach%20to_CVPR2012.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;94.00&nbsp;&nbsp;  | 75.36 | 76.39 | 69.94 |
 | [RSR](https://link.springer.com/content/pdf/10.1007/978-3-642-33709-3_16.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;91.50&nbsp;&nbsp; | 74.92 | 72.59| 72.77 |
 | [KGDL](https://openaccess.thecvf.com/content_iccv_2013/papers/Harandi_Dictionary_Learning_and_2013_ICCV_paper.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;93.00&nbsp;&nbsp;  | 77.40 | 76.32 | 73.91 |
+| [Liu et al.](https://www.sciencedirect.com/science/article/abs/pii/S0167865518308845) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;92.5&nbsp;&nbsp;  | N/A | N/A | 78.8 |
 | [DRM](https://www.researchgate.net/profile/Munawar-Hayat/publication/273392204_Deep_Reconstruction_Models_for_Image_Set_Classification/links/554af7120cf29752ee7c3657/Deep-Reconstruction-Models-for-Image-Set-Classification.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;98.12&nbsp;&nbsp;  | N/A | N/A | 72.55 |
+| [DMK](https://arxiv.org/abs/1304.4344) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;96.8&nbsp;&nbsp;  | N/A | N/A | 80.3 |
 | [MMDML](https://openaccess.thecvf.com/content_cvpr_2015/papers/Lu_Multi-Manifold_Deep_Metric_2015_CVPR_paper.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;94.50&nbsp;&nbsp;  | N/A | N/A | 78.5 |
-| J3S w/o Sp Dict. | &nbsp;&nbsp;95.25&nbsp;&nbsp;  | 81.40 | 83.43 | 82.87 |
-| J3S &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;96.00&nbsp;&nbsp;  | 82.58 | 84.07 | 83.09 |
+| J3S w/o Sp Dict. | &nbsp;&nbsp;97.75&nbsp;&nbsp;  | 82.12 | 84.03 | 83.34 |
+| J3S &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;98.25&nbsp;&nbsp;  | 82.36 | 85.65 | 83.40 |
 
 
 ## Citation
